@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Nanoukcd! 👋
 
-<!--
-**Nanoukcd/Nanoukcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm excited to share my journey with you as I dive into the world of coding and explore other fascinating fields.
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🎓 Currently learning how to code online with [SAYNA](https://www.sayna.io/)
+- 💼 Interested in Digital Marketing, UI/UX Design, and more
+- 😌 Hoping not to lose my interest in coding and programming
+- 🚀 Just starting out, but eager to learn and grow!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Learning Journey
+I'm at the beginning of my coding adventure, and I have to admit, it feels a bit daunting. However, I'm committed to pushing through and discovering the amazing world of programming. With SAYNA, I'm gaining the foundational skills I need to build my first projects and beyond.
+
+## 🎨 Other Interests
+Aside from coding, I'm passionate about:
+- 📈 Digital Marketing: Understanding how to reach and engage audiences
+- 🎨 UI/UX Design: Crafting beautiful and intuitive user experiences
+
+## 🌟 Goals
+- Stay motivated and continue learning
+- Build my first coding projects
+- Explore and combine my interests in Digital Marketing and UI/UX Design with coding
+
+## 📫 Connect with Me
+Feel free to reach out if you want to connect, share tips, or collaborate on projects! You can find me on:
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+
+Thanks for stopping by, and let's keep learning together! 🚀
