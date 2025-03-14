@@ -23,7 +23,6 @@ Aside from coding, I'm passionate about:
 
 ## 📫 Connect with Me
 Feel free to reach out if you want to connect, share tips, or collaborate on projects! You can find me on:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [Twitter](https://x.com/n_dizel)
 
 Thanks for stopping by, and let's keep learning together! 🚀
